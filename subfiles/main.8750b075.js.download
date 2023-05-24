@@ -4,19 +4,22 @@ web:{
   categoryName:"Web Dev",percentage:50,skillList:[
     {name:"Python",xp:"8 YRS",icon:Js},
     {name:"Django",xp:"6 YRS",icon:md},
-    {name:"Node",xp:"5 YRS",icon:js},
+    {name:"Node",xp:"8 YRS",icon:js},
     {name:"PHP",xp:"7 YRS",icon:qs},
+
     {name:"Laravel",xp:"5 YRS",icon:Ds},
     {name:"Ruby on Rails",xp:"4 YRS",icon:vd},
-    {name:"JavaScript",xp:"6 YRS",icon:Xs},
-    {name:"React",xp:"5 YRS",icon:Fs},
-    {name:"Vue",xp:"3 YRS",icon:Rs},
-    {name:"Anguar",xp:"2 YRS",icon:Gs},
-    {name:"HTML",xp:"8 YRS",icon:Ws},
-    {name:"CSS",xp:"8 YRS",icon:Hs},
-    {name:"Shopify",xp:"2 YRS",icon:Ls},
+    {name:"JavaScript",xp:"11 YRS",icon:Xs},
+    {name:"React",xp:"11 YRS",icon:Fs},
+    
+    {name:"Vue",xp:"9 YRS",icon:Rs},
+    {name:"Anguar",xp:"8 YRS",icon:Gs},
+    {name:"HTML",xp:"11 YRS",icon:Ws},
+    {name:"CSS",xp:"11 YRS",icon:Hs},
+    
+    {name:"Shopify",xp:"5 YRS",icon:Ls},
     {name:"AWS",xp:"4 YRS",icon:zs},
-    {name:"Docker",xp:"2 YRS",icon:Ys}
+    {name:"Docker",xp:"3 YRS",icon:Ys}
   ]},
 game:{
   categoryName:"Blockchain Dev",percentage:30,skillList:[
